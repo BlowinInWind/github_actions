@@ -1,0 +1,5 @@
+node-modules/**/*
+dev/**/*
+dist/**/*
+/src/__tests__/**
+jestconfig.js
