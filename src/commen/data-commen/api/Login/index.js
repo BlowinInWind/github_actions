@@ -5,7 +5,6 @@ class Request extends BaseSubFormRequest {
         super(props);
     }
 
-    //  师资概况——专业
     static login(params) {
         return this.post('/user/login', params);
     }
