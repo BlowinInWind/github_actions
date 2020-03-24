@@ -198,7 +198,7 @@ class LoginComponent extends Component {
                             src={require('@pages/Login/commen/assets/img/map.png')}
                         />
                         <div className="main_login">
-                            <h2>教学诊改五横画像平台</h2>
+                            <h2>登录</h2>
                             <div className="login_user">
                                 <img
                                     alt=""
